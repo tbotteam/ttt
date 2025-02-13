@@ -8,5 +8,10 @@
     "uid": 123333443434555,
     "ref": false,
     "vip": true
+  },
+  {
+    "uid": 12,
+    "ref": false,
+    "vip": true
   }
 ]
