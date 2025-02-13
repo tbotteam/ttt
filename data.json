@@ -18,5 +18,10 @@
     "uid": 15,
     "ref": false,
     "vip": false
+  },
+  {
+    "uid": 15555,
+    "ref": false,
+    "vip": true
   }
 ]
